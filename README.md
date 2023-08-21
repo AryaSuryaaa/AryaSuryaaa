@@ -42,7 +42,7 @@ Hello, I am a **beginner** in the field of **mobile programming**🤓 Despite be
 <p align="center">
 <a href= "https://github.com/AryaSuryaaa"><img src='./svg/github-light.svg' width="32px"></a>
 <a href= "https://www.linkedin.com/in/aryasuryaa/"><img src='./svg/linkedin.svg' width="32px"></a>
-<a href= "https://www.instagram.com/aryasuryaa__/"><img src='./svg/instagramt.svg' width="32px"></a>
+<a href= "https://www.instagram.com/aryasuryaa__/"><img src='./svg/instagram.svg' width="32px"></a>
 <a href= "https://discordapp.com/users/553898804978384899"><img src='./svg/discord.svg' width="32px"></a>
 </p>
 
