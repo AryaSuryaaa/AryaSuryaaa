@@ -30,14 +30,20 @@ Hello, I am a **beginner** in the field of **mobile programming**🤓 Despite be
 </details>
   
 <hr>
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"
+/>
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/AryaSuryaaa"><img src="https://icons8.com/icon/62856/github"/></a>
-<a href= "https://www.linkedin.com/in/aryasuryaa/"><img src="https://icons8.com/icon/13930/linkedin"/></a>
-<a href= "https://www.instagram.com/aryasuryaa__/"><img src="https://icons8.com/icon/32323/instagram"/></a>
-<a href= "https://discordapp.com/users/553898804978384899"><img src="https://icons8.com/icon/30998/discord"/></a>
+<a href= "https://github.com/AryaSuryaaa"><img src='./svg/github-light.svg' width="32px"></a>
+<a href= "https://www.linkedin.com/in/aryasuryaa/"><img src='./svg/linkedin.svg' width="32px"></a>
+<a href= "https://www.instagram.com/aryasuryaa__/"><img src='./svg/instagramt.svg' width="32px"></a>
+<a href= "https://discordapp.com/users/553898804978384899"><img src='./svg/discord.svg' width="32px"></a>
 </p>
 
 
